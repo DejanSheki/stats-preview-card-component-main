@@ -1,9 +1,9 @@
-![./images/screenshot.png]
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [https://github.com/DejanSheki/stats-preview-card-component-main]
-- Live Site URL: [https://dejansheki.github.io/stats-preview-card-component-main/]
+- Solution URL: https://github.com/DejanSheki/stats-preview-card-component-main
+- Live Site URL: https://dejansheki.github.io/stats-preview-card-component-main/
 
 ### Built with
 
@@ -13,5 +13,5 @@
 
 ## Author
 
-- Website - [https://dejanlukic.com]
-- Frontend Mentor - [https://www.frontendmentor.io/profile/DejanSheki]
+- Website - https://dejanlukic.com
+- Frontend Mentor - https://www.frontendmentor.io/profile/DejanSheki
